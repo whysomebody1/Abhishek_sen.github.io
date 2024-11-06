@@ -8,7 +8,7 @@ Welcome to my portfolio! I am a **Business Analytics graduate** with a strong fo
 - **Location**: Dublin, Ireland
 - **Email**: [abhishek.sen808@hotmail.com](mailto:abhishek.sen808@hotmail.com)
 - **LinkedIn**: [linkedin.com/in/abhishek-sen](https://www.linkedin.com/in/abhishek.sen808)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **GitHub**: [github.com/yourusername](https://github.com/whysomebody1)
 
 
 ---
@@ -37,6 +37,19 @@ I have hands-on experience in **data analysis** and **business intelligence**, w
 - Led process improvement initiatives based on GAP analysis, achieving a 10% increase in efficiency.
 - Collaborated with stakeholders to manage pilot projects, renewals, and expansion opportunities.
 
+### Analyst at Ikkacart Online Shopping Private Ltd.
+- Location: Varanasi, India
+- **April 2020 – March 2022**
+- Created functional specifications, groomed product backlogs, and developed user stories to support agile workflows.
+- Leveraged Tableau for interactive dashboards that visualized KPIs, improving cross-team collaboration and decision-making.
+
+### Business Intelligence Analyst at Pixel Creatives
+- Location: Lucknow, India
+- **August 2018 – February 2020**
+- Aligned client requirements with project strategies, facilitating collaboration across departments.
+- Presented data-driven recommendations to executives, contributing to a 10% revenue increase.
+- Developed interactive dashboards in Tableau and Power BI, enhancing decision-making and collaboration across teams.
+
 ## Education
 
 - **Master of Science in Business Analytics** - Dublin Business School, Dublin, Ireland
@@ -51,8 +64,19 @@ I have hands-on experience in **data analysis** and **business intelligence**, w
 
 ## Projects
 
-### [Project 1: Sales Analysis Dashboard](https://github.com/yourusername/sales-analysis-dashboard)
-A dynamic sales analysis dashboard built with **Tableau** and **Power BI** that visualizes key performance indicators and trends to aid in strategic decision-making.
+## Projects
+
+## Projects
+
+### [Tweet Classifier](https://github.com/whysomebody1/Abhishek_sen.github.io/tree/main/Tweet%20Classifier)
+[![Tweet Classifier](https://github.com/whysomebody1/Abhishek_sen.github.io/blob/main/Tweet%20Classifier/images.png?raw=true)](https://github.com/whysomebody1/Abhishek_sen.github.io/tree/main/Tweet%20Classifier)
+
+A machine learning project that classifies tweets into various categories based on content. Built using **Python**, **Natural Language Processing (NLP)**, and **scikit-learn**, this classifier leverages text processing and model selection techniques to achieve high accuracy in categorizing tweets.
+
+---
+
+
+---
 
 ### [Project 2: Customer Retention Analysis](https://github.com/yourusername/customer-retention-analysis)
 Python-based analysis identifying factors influencing customer retention, using **machine learning** to develop predictive models for targeted retention strategies.
