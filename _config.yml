@@ -1,0 +1,12 @@
+# Site settings
+title: "Abhishek Sen's Portfolio"
+description: "Business Analytics graduate with hands-on experience in data analysis, reporting, and process optimization."
+author: "Abhishek Sen"
+email: "abhishek.sen808@hotmail.com"
+url: "https://github.com/yourusername"
+theme: jekyll-remote-theme
+
+# Social links
+github_username: yourusername
+linkedin: "https://www.linkedin.com/in/abhishek-sen"
+email: "abhishek.sen808@hotmail.com"
