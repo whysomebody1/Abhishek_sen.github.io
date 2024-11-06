@@ -1,17 +1,16 @@
-# Abhishek Sen - Portfolio
+# Abhishek Sen 
+- Portfolio
 
 Welcome to my portfolio! I am a **Business Analytics graduate** with a strong foundation in data analysis, reporting, and process optimization. I’m passionate about leveraging data to deliver strategic insights and improve business performance.
 
 ## About Me
 
-- **Location**: Dublin, Ireland
-- **Email**: [abhishek.sen808@hotmail.com](mailto:abhishek.sen808@hotmail.com)
-- **LinkedIn**: [linkedin.com/in/abhishek-sen](https://www.linkedin.com/in/abhishek.sen808)
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **Location**: Dublin, Ireland - **Email**: [abhishek.sen808@hotmail.com](mailto:abhishek.sen808@hotmail.com) - **LinkedIn**: [linkedin.com/in/abhishek-sen](https://www.linkedin.com/in/abhishek.sen808) - **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+
 
 ---
 
-## Professional Summary
+## Summary
 
 I have hands-on experience in **data analysis** and **business intelligence**, working with tools like **Tableau**, **Excel**, and **Power BI** to create insightful reports and dashboards. My expertise extends to **process improvement** and **workflow optimization**, where I’ve consistently contributed to enhancing productivity and data-driven decision-making.
 
@@ -34,8 +33,6 @@ I have hands-on experience in **data analysis** and **business intelligence**, w
 - **April 2022 – December 2022**
 - Led process improvement initiatives based on GAP analysis, achieving a 10% increase in efficiency.
 - Collaborated with stakeholders to manage pilot projects, renewals, and expansion opportunities.
-
-For more experience details, please refer to the complete [CV](path-to-your-CV.pdf).
 
 ## Education
 
