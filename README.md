@@ -5,7 +5,10 @@ Welcome to my portfolio! I am a **Business Analytics graduate** with a strong fo
 
 ## About Me
 
-- **Location**: Dublin, Ireland - **Email**: [abhishek.sen808@hotmail.com](mailto:abhishek.sen808@hotmail.com) - **LinkedIn**: [linkedin.com/in/abhishek-sen](https://www.linkedin.com/in/abhishek.sen808) - **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- **Location**: Dublin, Ireland
+- **Email**: [abhishek.sen808@hotmail.com](mailto:abhishek.sen808@hotmail.com)
+- **LinkedIn**: [linkedin.com/in/abhishek-sen](https://www.linkedin.com/in/abhishek.sen808)
+- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
 
 
 ---
