@@ -62,9 +62,6 @@ I have hands-on experience in **data analysis** and **business intelligence**, w
 - Recognized for distinction in Financial Management at the University of Lucknow.
 - Presented research on **"CSR in India"** at SGNGDC, Lucknow.
 
-## Projects
-
-## Projects
 
 ## Projects
 
